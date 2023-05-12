@@ -3,3 +3,4 @@
 3. Basis data
 4. Anapersis
 5. Project manajement
+6. Matematika dasar
